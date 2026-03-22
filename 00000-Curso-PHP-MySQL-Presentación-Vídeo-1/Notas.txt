@@ -1,0 +1,60 @@
+https://www.youtube.com/watch?v=I75CUdSJifw&list=PLU8oAlHdN5BkinrODGXToK9oPAlnJxmW_&index=1
+
+Aquí tienes el texto extraído de la imagen, organizado de forma clara y estructurada:
+
+---
+
+**TEMARIO**
+
+**1ª PARTE**  
+- Introducción PHP  
+  - Lenguajes cliente y lenguajes servidor  
+  - Componentes de aplicaciones PHP  
+
+- Instalación software necesario  
+  - Instalación servidor web  
+  - Instalación extensiones PHP  
+  - Instalación gestor MySql  
+  - Instalación Bundle  
+
+- Sintaxis PHP  
+  - HTML y PHP  
+  - Datos y variables PHP  
+  - Constantes  
+  - Operadores  
+  - Bucles y condicionales  
+  - Funciones  
+  - Arrays  
+
+---
+
+**2ª PARTE**  
+- MySql  
+  - El lenguaje SQL  
+  - Uso de PHPMyAdmin  
+  - Creación y manejo de BBDD MySQL  
+  - Backup y restauración de datos  
+
+- Conexiones PHP y MySQL  
+  - Consultas a BBDD con funciones PHP  
+
+- Trabajo con formularios  
+  - Plantillas  
+
+- Tareas frecuentes con PHP  
+  - Manejo de archivos  
+  - Manejo de fechas y horas  
+  - Etc  
+
+- Cookies y sesiones  
+- Seguridad  
+- Manejo de errores  
+- Creación de aplicación práctica completa  
+
+---
+
+**PILDORAS INFORMÁTICAS**
+
+--- 
+
+Este es el temario completo dividido en dos partes, tal como aparece en la imagen.
